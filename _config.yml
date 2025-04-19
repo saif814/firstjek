@@ -23,10 +23,11 @@ email: vilrn5677@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog by a curious CSE student exploring the world of code, bugs, and tech! 
   This space is my learning ground where I share my experiments, silly mistakes, and everything in between.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/firstjek" # the subpath of your site, e.g. /blog
+url: "https://saif814.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamsaifsidd
 github_username:  saifsidd
+destination: docs
 
 # Build settings
 theme: minima
