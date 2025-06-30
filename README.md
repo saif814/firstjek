@@ -37,7 +37,7 @@ This site is a blend of:
 Want to clone it and try it out? Easy:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/saif814/firstjek.git
+cd firstjek
 bundle install
 bundle exec jekyll serve
